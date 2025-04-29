@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: 2b2a489d7cf2d4badbc63bdae32536fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frog_swim_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 424
+        height: 500
+      alignment: 9
+      pivot: {x: 0.37980294, y: 0.61098737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813d43b6e420d4089a2bcc9db6957bfd
+      internalID: -1020484224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_1
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 424
+        height: 500
+      alignment: 9
+      pivot: {x: 0.36644775, y: 0.60872227}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8671c8b1a8441efa0d28ba6d91bed4
+      internalID: -1121051763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_2
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 424
+        height: 500
+      alignment: 9
+      pivot: {x: 0.36911902, y: 0.62004757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb591b6daad50470b8dbfb984c595960
+      internalID: 396492630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_3
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 0
+        width: 394
+        height: 500
+      alignment: 9
+      pivot: {x: 0.41089302, y: 0.6268427}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceb4852c4f3843c0aec308128ce71e9
+      internalID: 519798694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_4
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 0
+        width: 373
+        height: 500
+      alignment: 9
+      pivot: {x: 0.411949, y: 0.6132524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7889892aef74f4f8a82449d2022acebb
+      internalID: 87577295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_5
+      rect:
+        serializedVersion: 2
+        x: 2116
+        y: 0
+        width: 344
+        height: 500
+      alignment: 9
+      pivot: {x: 0.47695497, y: 0.6132524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0410141cbb44f14a8fff38c187d6c6
+      internalID: 684780503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_6
+      rect:
+        serializedVersion: 2
+        x: 2457
+        y: 0
+        width: 399
+        height: 500
+      alignment: 9
+      pivot: {x: 0.39781767, y: 0.62004757}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb7e80e451f742fbb4de55eed6153e3
+      internalID: -1579420026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_7
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 0
+        width: 424
+        height: 500
+      alignment: 9
+      pivot: {x: 0.363777, y: 0.6291077}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29182e419e6249e08545cbb8828a88e
+      internalID: -1073138714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_8
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 0
+        width: 424
+        height: 500
+      alignment: 9
+      pivot: {x: 0.36110646, y: 0.5973971}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3173a06ce5d458b9ef67aa262c7d02
+      internalID: 282081541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_9
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 0
+        width: 424
+        height: 500
+      alignment: 9
+      pivot: {x: 0.3584353, y: 0.5996621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfb6f9d1f67441fab3afea75676d27b
+      internalID: 1742383312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frog_swim_10
+      rect:
+        serializedVersion: 2
+        x: 4187
+        y: 0
+        width: 424
+        height: 500
+      alignment: 9
+      pivot: {x: 0.3584353, y: 0.5792767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3852ffc5b78a455cab994cf30e2b5e6
+      internalID: 2044234873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      frog_swim_0: -1020484224
+      frog_swim_1: -1121051763
+      frog_swim_10: 2044234873
+      frog_swim_2: 396492630
+      frog_swim_3: 519798694
+      frog_swim_4: 87577295
+      frog_swim_5: 684780503
+      frog_swim_6: -1579420026
+      frog_swim_7: -1073138714
+      frog_swim_8: 282081541
+      frog_swim_9: 1742383312
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

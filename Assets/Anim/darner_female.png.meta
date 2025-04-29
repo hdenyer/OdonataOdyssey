@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: de30e3c48d5ac4d65a35a22cd5aa1c26
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darner_female_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.89795, y: 0.5283631}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1303cdb672e4b4580a41fab7235a73
+      internalID: 1012853415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_female_1
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.91637367, y: 0.5294778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396f6e622b9da4c329ed7b77eb07e3ec
+      internalID: 415738953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_female_2
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.886896, y: 0.540532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8d40f1c08eb43e0805da6b61b5142d
+      internalID: -125029987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_female_3
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.89664453, y: 0.5257083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b763283ecc64dcc87f6516a32057e3
+      internalID: -743780158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_female_4
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.9003174, y: 0.5330536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaab4c28855a49029065f4904d6f744
+      internalID: -1061084492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_female_5
+      rect:
+        serializedVersion: 2
+        x: 2510
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.88837546, y: 0.5415767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00efdcd6a036d4f32859c741c816a45e
+      internalID: 1270931596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_female_6
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.8989775, y: 0.53180593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e5448ccd84743118ca293c70208904
+      internalID: -1526951186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_female_7
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.8843999, y: 0.5290535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437d9c66d59b0404dad3606d00ce99a3
+      internalID: -286551064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_female_8
+      rect:
+        serializedVersion: 2
+        x: 3982
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.8829297, y: 0.53340995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680635903219542abbdc9b39e184b6c0
+      internalID: 1279298964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_female_9
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.88035935, y: 0.53340995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b8f8effd8b04b689e77535d50ab406
+      internalID: 2071741086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      darner_female_0: 1012853415
+      darner_female_1: 415738953
+      darner_female_2: -125029987
+      darner_female_3: -743780158
+      darner_female_4: -1061084492
+      darner_female_5: 1270931596
+      darner_female_6: -1526951186
+      darner_female_7: -286551064
+      darner_female_8: 1279298964
+      darner_female_9: 2071741086
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

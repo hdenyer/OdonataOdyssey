@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: aa90b3ab131694bcabf29e849c6fd7c8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darner_sprite 2_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5493873, y: 0.53704053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc42f54178d749708cf9e192b267988
+      internalID: 123810559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_sprite 2_1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5658497, y: 0.5411561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bdb0842f8d446199cd2180605979d2
+      internalID: 1118212786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_sprite 2_2
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.54938745, y: 0.5411561}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d5c4f2dfec64ec4a8f2c8d9cb539f3
+      internalID: -1356903352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_sprite 2_3
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.56173486, y: 0.53704065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4728ea96a209043bcbdd537fdc46c523
+      internalID: 445185679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_sprite 2_4
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5493877, y: 0.54938734}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5b80a074e2845f48e73454a789a3d2
+      internalID: -1385173120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_sprite 2_5
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5493877, y: 0.53704053}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a2609db785b48aa8d0e5b357135d05
+      internalID: -1675927856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_sprite 2_6
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 0
+        width: 494
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5499885, y: 0.53704065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47674a8e5f18e4098825208742e11019
+      internalID: 1501846645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_sprite 2_7
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5411577, y: 0.53704065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed714cd0c28b1405684911170b429a22
+      internalID: 944539684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_sprite 2_8
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5452734, y: 0.54115623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6712e216d8644a08794fc16badc97e
+      internalID: 1891804572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darner_sprite 2_9
+      rect:
+        serializedVersion: 2
+        x: 4479
+        y: 0
+        width: 500
+        height: 500
+      alignment: 9
+      pivot: {x: 0.5370439, y: 0.54115635}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6e403cff9cb45fc927f00db1da0bfe
+      internalID: -1964890151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      darner_sprite 2_0: 123810559
+      darner_sprite 2_1: 1118212786
+      darner_sprite 2_2: -1356903352
+      darner_sprite 2_3: 445185679
+      darner_sprite 2_4: -1385173120
+      darner_sprite 2_5: -1675927856
+      darner_sprite 2_6: 1501846645
+      darner_sprite 2_7: 944539684
+      darner_sprite 2_8: 1891804572
+      darner_sprite 2_9: -1964890151
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
